@@ -1,4 +1,4 @@
-@extends('templete/master')
+@extends('master_view/master')
 @section('title','CRUD - Simpan Data')
 @section('container')
 

@@ -1,4 +1,4 @@
-@extends('templete/master')
+@extends('master_view/master')
 @section('title','CRUD - Edit Data')
 @section('container')
 <div class="container" style="margin-top: 40px">
